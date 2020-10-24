@@ -1,3 +1,3 @@
 # Calculator
 
-#Simple calculator with basic functions. Made using PyQT5.
+Simple calculator with basic functions. Made using PyQT5.
